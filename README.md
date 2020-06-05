@@ -2,8 +2,7 @@
 
 #### This file contains several individual projects done during my studies
 
-* ## [Evaluating a Bias Compensation method for Sequential Monte
-Carlo](https://github.com/stasinak/Projects/tree/master/Sequential%20Monte%20Carlo)
+* ## [Evaluating a Bias Compensation method for Sequential Monte Carlo](https://github.com/stasinak/Projects/tree/master/Sequential%20Monte%20Carlo)
 
     In this project we propose a method, which uses the asymptotic distribution of the log-marginal likelihood for the bias correction. We
 evaluate this method empirically in order to conclude whether or not it improves the estimate compared to conventional methods.
