@@ -1,6 +1,6 @@
 # Projects
 
-#### This file contains several individual projects done during my studies
+#### This folder contains several individual projects done during my studies
 
 * ## [Evaluating a Bias Compensation method for Sequential Monte Carlo](https://github.com/stasinak/Projects/tree/master/Sequential%20Monte%20Carlo)
 
